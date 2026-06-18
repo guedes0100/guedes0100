@@ -1,8 +1,3 @@
-```md
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=João%20Vitor%20Guedes&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+João+Vitor+Guedes;Bacharel+em+Administração+pela+UEM;Estudante+de+Engenharia+de+Software;Entusiasta+de+Cibersegurança;Em+busca+da+primeira+oportunidade+em+Tecnologia)](https://git.io/typing-svg)
-
 # 👋 Olá, eu sou João Vitor Guedes
 
 🎓 Bacharel em Administração pela Universidade Estadual de Maringá (UEM)
