@@ -86,7 +86,7 @@ Atualmente estou desenvolvendo conhecimentos em:
 <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41">
 </a>
 
-<a href="ttps://www.linkedin.com/in/guedes0100/" target="_blank">
+<a href="https://www.linkedin.com/in/guedes0100/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41">
 </a>
 
@@ -106,6 +106,6 @@ Atualmente estou desenvolvendo conhecimentos em:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
- ![Snake animation](https://github.com/guede0100/guedes0100/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guedes0100/guedes0100/blob/output/github-contribution-grid-snake.svg)
    
 </div>
